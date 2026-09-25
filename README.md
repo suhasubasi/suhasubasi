@@ -1,97 +1,24 @@
-# Hi, I'm Süha 👋
+# Hi, I'm Suha
 
-I'm a Systems Development student at Kristianstad University in Sweden with a strong passion for software engineering and fullstack development, especially within the .NET ecosystem.
+I am a third-year Software Development student at Kristianstad University, graduating in June 2027. My main focus is C# and .NET, especially backend development with ASP.NET Core and relational databases. I am looking for a thesis internship in spring 2027, and after that a junior .NET developer role, in Malmö, Skåne or Blekinge.
 
-I enjoy building real-world applications, solving technical problems, and continuously improving my skills as a developer. I'm particularly interested in backend development, APIs, databases, and modern fullstack architectures.
+## What I'm working on
 
----
+**[ServiceFlow](https://github.com/suhasubasi/ServiceFlow)** is a service desk application for repair and support jobs. A company can register customers and technicians, create tickets, assign them, and follow each ticket from Open to Closed. The backend is an ASP.NET Core 10 Web API split into Core, Infrastructure and Api projects (Clean Architecture), using EF Core with PostgreSQL. The frontend is written in React 19 and TypeScript. Business rules, such as which status changes are allowed, live in the domain model and are covered by xUnit tests. The whole system starts with `docker compose up`.
 
-## 🚀 About Me
+## Tech I use
 
-* 🎓 Studying Systems Development at Kristianstad University
-* 💻 Strong interest in C#, .NET, backend & fullstack development
-* 🧠 Studied algorithms, data structures, databases, operating systems, networking, and software development fundamentals
-* 🌱 Currently improving my skills in React, TypeScript, ASP.NET Core, and fullstack architecture
-* 🛠️ Experience with Java, C#, SQL, PostgreSQL, JavaScript, Node.js, and web technologies
-* 🔥 Currently building a fullstack booking application in .NET
-* 🎯 Goal: Gain practical experience through internships and junior developer opportunities
-* 📍 Based in Karlskrona, Sweden
+- **Languages:** C#, TypeScript, JavaScript, SQL (also Java, Python and Kotlin from coursework)
+- **Backend:** ASP.NET Core Web API, Entity Framework Core, Node.js with Express
+- **Frontend:** React, Vite, Tailwind CSS
+- **Databases:** PostgreSQL, MariaDB, MongoDB
+- **Testing and tools:** xUnit, Docker Compose, Git, Swagger/OpenAPI
 
----
+## Currently learning
 
-## 🛠️ Tech Stack
+ASP.NET Core MVC and Azure, through the course C# III at Malmö University.
 
-### Languages
+## Contact
 
-* C#
-* Java
-* JavaScript
-* TypeScript
-* Python
-
-### Backend & Fullstack
-
-* ASP.NET Core
-* Node.js
-* REST APIs
-* Fullstack Development
-
-### Frontend
-
-* React
-* HTML
-* CSS
-
-### Databases
-
-* PostgreSQL
-* SQL
-* Firebase
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Visual Studio
-* VS Code
-* IntelliJ IDEA
-* Jira
-
-### Development Methods
-
-* Agile
-* Scrum
-
----
-
-## 📚 Computer Science Fundamentals
-
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* Discrete Mathematics
-* Operating Systems
-* Networking & Communication
-* Database Systems
-* Software Development Principles
-
----
-
-## 📈 What I'm Currently Working On
-
-* Building a .NET fullstack booking system
-* Improving my backend architecture skills
-* Practicing algorithms and problem solving
-* Expanding my GitHub portfolio with real-world projects
-
----
-
-## 📫 Contact
-
-* 📧 Email: [suhasubasi@gmail.com](mailto:suhasubasi@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/suha-subasi/
-* 📂 GitHub: https://github.com/suhasubasi
-
----
-
-⭐ Thanks for visiting my profile!
-I'm continuously learning and adding new projects as I grow as a developer.
+- LinkedIn: [linkedin.com/in/suha-subasi](https://www.linkedin.com/in/suha-subasi/)
+- Email: [suha.subasi@gmail.com](mailto:suha.subasi@gmail.com)
